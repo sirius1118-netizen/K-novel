@@ -1,0 +1,8 @@
+{
+  "name": "Remix: K-Trot Master AI",
+  "description": "Gemini 초지능 신경망의 힘을 빌려 고품격 K-트로트 편곡, 보컬 가창 가이드 합성 및 맞춤 작사를 일괄 설계해주는 인공지능 음악 마스터링 워크스테이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
